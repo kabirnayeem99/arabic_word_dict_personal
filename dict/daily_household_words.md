@@ -48,4 +48,4 @@ Sure, here's the updated table with the root words including harakat:
 | غُرْفَةُ الرَّسْمِ                  | Drawing room          | غُرْفَةُ الرَّسْمِ| Drawing room           | اِجْلِسْ فِي غُرْفَةِ الرَّسْمِ لِلرَّاحَةِ. (Sit in the drawing room for relaxation.) |
 | غُرْفَةُ الطَّعَامِ                | Dining room           | غُرْفَةُ الطَّعَامِ| Dining room            | اِفْتَحْ بَابَ غُرْفَةِ الطَّعَامِ. (Open the door of the dining room.) |
 | مرء                             | Reflection                | مِرْآةٌ        | Mirror                 | اُنْظُرْ إِلَى الْمِرْآةِ. (Look into the mirror.) |
-| مَطْبَخٌ                            | Kitchen               | مَطْبَخٌ       | Kitchen                | اِطْبُخْ الطَّع
+| مَطْبَخٌ                            | Kitchen               | مَطْبَخٌ       | Kitchen                | اِطْبُخْ الطَّع |
