@@ -1,27 +1,25 @@
 ﻿# Modern Arabic Words (الْكَلِمَاتِ الْعَرَبِيَّةِ الْحَدِيثَةِ)
 
-## Syarah Apps (تَطْبِيقَاتِ سَيَّارَةٍ)
+## Syarah Apps (تَطْبِيقَاتُ سَيَّارَةٍ)
 
 ### Photographer App (تَطْبِيقُ الْمُصَوِّرِ)
 
-#### Add Car (إِضَافَةُ السِيَّارَةِ)
+#### Add Car (إِضَافَةُ السَّيَّارَةِ)
 
 | **Root word** | **Root word meaning** | **Main word** | **Main word meaning** | **Example** |
 |--------------|-----------------------|---------------|-----------------------|-------------|
 | وَصَفَ       | to describe           | مَوَاصِفَاتٌ | specifications       | تَحَقَّقْ مِن مَوَاصِفَاتِ السَيَّارَةِ قَبْلَ الشِّرَاءِ. (Check the car specifications before buying.) |
-| صَوَّرَ      | to photograph         | صُوَرٌ        | pictures              | تَمَّ التَقَاطُ الصُوَرِ الجَدِيدَةِ لِلمَنتَجِ. (New pictures of the product have been taken.) |
 | خَرَجَ       | to exit, to leave     | خَارِجِيَّةٌ  | exterior              | يَجِبُ التَأَكُّدُ مِن الخَارِجِيَّةِ لِلسَيَّارَةِ قَبْلَ الشِّرَاءِ. (You should check the exterior of the car before buying.) |
+| خَرَجَ       | to exit, to leave     | خُرُوجٌ      | exit                  | اضغط على الزر للخُرُوج. (Press the button to exit.) |
 | دَخَلَ       | to enter, to go in    | دَاخِلِيَّةٌ  | interior              | الدَّاخِلِيَّةُ الوَاسِعَةُ تُوفِّرُ رَاحَةً لِلرُكَّابِ. (The spacious interior provides comfort for passengers.) |
 | فِيدِيُو     | video                 | فِيدِيُو      | video                 | شَاهَدَ الفِيدِيُو الدَّعَائِيَ لِلمُنتَجِ. (Watch the promotional video of the product.) |
 | تَفَاصِيلٌ   | details               | تَفَاصِيلٌ   | details               | يُمْكِنُكَ الحُصُولُ عَلَى تَفَاصِيلٍ إِضَافِيَّةٍ عَن العُرُوضِ. (You can get additional details about the offers.) |
 | حَفِظَ       | to save, to keep      | حِفْظٌ       | save                  | لا تَنْسَى حِفْظَ البَيَانَاتِ الهَامَّةِ. (Don't forget to save important data.) |
 | أَرْسَلَ      | to send               | إِرْسَالٌ    | send                  | قُم بِإِرْسَالِ الرِّسَالَةِ النَّصِيَّةِ. (Send the text message.) |
-| سَنَةٌ       | year                  | سَنَةٌ       | year                  | يُعَتَبَرُ عَامُ ٢٠٢٣ أَحَدَ السُنُونِ الجَدِيدَةِ. (The year 2023 is considered one of the new years.) |
-| مَارْكَةٌ    | brand                 | مَارْكَةٌ    | brand                 | تُعْتَبَرُ هَذِهِ السَيَّارَةُ مِن مَارْكَاتِ السَّيَارَاتِ الفَخْمَةِ. (This car is considered a luxury car brand.) |
-| وَصَفَ       | to describe           | مُوَاصِفَاتٌ | specifications       | يَجِبُ أَنْ يَكُونَ الوَصْفُ مُطْابِقًا لِلمُوَاصِفَاتِ. (The description must match the specifications.) |
+| سَنَّ           | to age                | سَنَةٌ       | year                  | فِي أَيِّ سَنَةٍ وُلِدْتَ؟ (In which year were you born?) |
+| مَرَكَ          | to brand, to mark     | مَارْكَةٌ    | brand                 | مَا مَارْكَةُ سَيَّارَتِكَ؟ (What is your car's brand?) |
 | وَارِدٌ      | imported              | وَارِدٌ      | imported              | تَعْرِفُ هَذِهِ السَيَّارَةُ بِأَنَّهَا وَارِدَةٌ. (This car is known to be imported.) |
 | نَوْعٌ       | type, kind            | نَوْعٌ       | type                  | مَا هُوَ نَوْعُ الوَقُودِ الَّذِي تَحْتَاجُهُ السَّيَّارَةُ؟ (What type of fuel does the car need?) |
-| وَقُودٌ      | fuel                  | وَقُودٌ      | fuel                  | لَا تَنْسَ البَحْثَ عَن وَقُودٍ مُنَاسِبٍ لِلسَّيَّارَةِ. (Don't forget to search for suitable fuel for the car.) |
 | سَعَةٌ       | capacity, volume      | سَعَةٌ       | capacity              | تَحْقَقْ مِن سَعَةِ الخَزَانِ لِلسَّيَّارَةِ. (Check the capacity of the car's tank.) |
 | حَرَكَ       | to move, to drive     | مُحَرِّكٌ    | engine                | هَلْ تُفَضِّلُ السَّيَّارَاتُ بِمُحَرِّكٍ هَجِينٍ؟ (Do you prefer cars with hybrid engines?) |
 | سِلِنْدُرَاتٌ | cylinders             | سِلِنْدُرَاتٌ | cylinders             | تَحْقَقْ مِن عَدَدِ السِّلِنْدُرَاتِ لِلسَّيَّارَةِ. (Check the number of cylinders for the car.) |
@@ -33,15 +31,15 @@
 | عَدَدٌ       | number, quantity      | عَدَدٌ        | number, quantity      | قُمْ بِإِحْصَاءِ العَدَدِ الجَمْلِيِّ. (Count the total number.) |
 | أَحْصُنَةٌ   | horsepower            | أَحْصُنَةٌ    | horsepower            | السُّيُوحُ الَّتِي تَتَمَتَّعُ بِعَدَدٍ كَبِيرٍ مِنَ الأَحْصُنَةِ تُعْتَبَرُ قُوِّيَّةً. (Cars with a high number of horsepower are considered powerful.) |
 | خَزَّانٌ     | tank                  | خَزَّانٌ      | tank                  | قُمْ بِتَعْبِئَةِ خَزَّانِ الوَقُودِ بِانتِظَامٍ. (Regularly fill up the fuel tank.) |
-| وَقُودٌ      | fuel                  | وَقُودٌ       | fuel                  | تَحْقَقْ مِن نُوعِ الوَقُودِ الَّذِي يَنْسَبُ لِلسَّيَّارَةِ. (Check the type of fuel suitable for the car.) |
-| اِسْتِهْلاَكٌ | consumption           | اِسْتِهْلاَكٌ | consumption           | قُمْ بِحِسَابِ اِسْتِهْلاَكِ الوَقُودِ لِلسَّيَّارَةِ. (Calculate the fuel consumption of the car.) |
-| سُرْعَاتٌ    | speeds                | سُرْعَاتٌ     | speeds                | السُّرْعَاتُ العَالِيَةُ تَتَطَلَّبُ مَهَارَةً فِي القِيَادَةِ. (High speeds require skill in driving.) |
-| مَقَاعِدُ    | seats                 | مَقَاعِدُ     | seats                 | قُمْ بِتَنْظِيفِ المَقَاعِدِ بِانتِظَامٍ. (Clean the seats regularly.) |
-| أَبْوَابٌ    | doors                 | أَبْوَابٌ     | doors                 | قُمْ بِإِغْلَاقِ الأَبْوَابِ بِشَكْلٍ صَحِيحٍ. (Close the doors properly.) |
-| مُمَشَّى     | mileage               | مُمَشَّى      | mileage               | قُمْ بِالتَّحْقِقِ مِن مُمَشَّى السَّيَّارَةِ. (Check the car's mileage.) |
+| وَقُودٌ      | to fuel                  | وَقُودٌ       | fuel                  | تَحْقَقْ مِن نُوعِ الوَقُودِ الَّذِي يَنْسَبُ لِلسَّيَّارَةِ. (Check the type of fuel suitable for the car.) |
+| هَلَكَ | to consume           | اِسْتِهْلاَكٌ | consumption           | قُمْ بِحِسَابِ اِسْتِهْلاَكِ الوَقُودِ لِلسَّيَّارَةِ. (Calculate the fuel consumption of the car.) |
+| سَرَعَ    | to speed up                | سُرْعَاتٌ     | speeds                | السُّرْعَاتُ العَالِيَةُ تَتَطَلَّبُ مَهَارَةً فِي القِيَادَةِ. (High speeds require skill in driving.) |
+| مَقْعَد    | seat                 | مَقَاعِدُ     | seats                 | قُمْ بِتَنْظِيفِ المَقَاعِدِ بِانتِظَامٍ. (Clean the seats regularly.) |
+| بَابٌ    | door                 | أَبْوَابٌ     | doors                 | قُمْ بِإِغْلَاقِ الأَبْوَابِ بِشَكْلٍ صَحِيحٍ. (Close the doors properly.) |
+| مَشَى     | to walk               | مُمَشَّى      | mileage               | قُمْ بِالتَّحْقِقِ مِن مُمَشَّى السَّيَّارَةِ. (Check the car's mileage.) |
 | حَالَةٌ      | condition, status     | حَالَةٌ      | condition, status     | اِفْحَصْ حَالَةَ السَّيَّارَةِ قَبْلَ الشِّرَاءِ. (Inspect the car's condition before buying.) |
 | سَعْرٌ       | price                 | سَعْرٌ       | price                 | قَارِنْ الْأَسْعَارَ لِتَحْصِلَ عَلَى السَّعْرِ الْمُنَاسِبِ. (Compare prices to get the suitable price.) |
-| وَحْدَةٌ     | unit                  | وَحْدَةٌ     | unit                  | اِخْتَرْ الْوَ
+| وَحْدَةٌ     | unit                  | وَحْدَةٌ     | unit                  | اِخْتَرْ الْوَ |
 
 #### Choose Dealer (اِخْتَرِ الْمُوَزِّعَ)
 
@@ -50,15 +48,16 @@
 | __ | __ | أُونْلايْن| Online | التَّسَوُّقُ أُونْلايْن شَائِعٌ - Online shopping is popular.|
 | رَأَسَ | to lead/head | الرَئِيسِيَّة | Main (Fem form) | الصَّفْحَةُ الرَئِيسِيَّةُ (Main Page) |
 | حَدَّثَ | to update | تَحْدِيث | Update | تَحْدِيثُ التَّطْبِيقِ - Updating the application |
-| عَرَضَ | to display | مَعْرِض | Exhibition | مَعْرِضُ السَّيَّارَاتِ - The car exhibition |
+| عَرَضَ         | to exhibit, to display | مَعْرِضٌ    | exhibition            | زُرْ مَعْرِضَ الْفَنِّ. (Visit the art exhibition.) |
+| عَرَضَ         | to display            | عَرْضٌ       | display               | قُمْ بِعَرْضِ الصُّورَةِ. (Display the picture.) |
 | وَثَّقَ | to document | وَثَائِق | Document | وَثَائِقُ الشَّرِكَةِ - The company documents |
 | صَوَّرَ | to photograph | مُصَوِّرِين | photographers | مُصَوِّرِين مُحْتَرِفِين - Professional photographers |
 | بَحَثَ       | to search             | بَحْثٌ        | search                | ابدأ بَحْثَكَ الآن. (Start your search now.) |
-| فِيدِيُو     | video                 | فيديو        | video                 | انظر إلى الفيديو. (Watch the video.) |
 | صَوَّرَ      | to photograph         | صُورٌ        | pictures              | شارك الصُورَ الخاصة بك. (Share your pictures.) |
+| صَوَّرَ             | to depict/film    | تَصْوِيرٌ            | photography/filming| تَصْوِيرُ الفِيلْمِ - The filming of the movie. |
+| صَوَّرَ        | to photograph         | صُورَةٌ      | picture               | أَرِنِي الصُورَةَ. (Show me the picture.) |
+| صَوَّرَ      | to photograph         | صُوَرٌ        | pictures              | تَمَّ التَقَاطُ الصُوَرِ الجَدِيدَةِ لِلمَنتَجِ. (New pictures of the product have been taken.) |
 | حَمَلَ       | to carry, to load     | تَحْمِيلٌ    | download              | يُمْكِنُكَ تَحْمِيلَ التطبيق الآن. (You can download the app now.) |
-| خَرَجَ       | to exit, to leave     | خُرُوجٌ      | exit                  | اضغط على الزر للخُرُوج. (Press the button to exit.) |
-| عَرَضَ       | to exhibit, to display| مَعْرَضٌ    | exhibition            | زُر المَعْرَض لرؤية الأعمال الفنية. (Visit the exhibition to see the artworks.) |
 | حَالٍ        | condition, state      | حَالِيَةٌ    | current               | تَحْقَق مِن الحالِيَة الآخرى. (Check the current status.) |
 | تَصَرَّفَ    | to behave, to act     | تَعْدِيلٌ    | editing               | يتطلب التَعْدِيل جهداً ومهارة. (Editing requires effort and skill.) |
 | أَخَذَ       | to take, to acquire   | آحْصَائِيَّاتٌ| statistics            | قُم بتحليل الآحصائيات. (Analyse the statistics.) |
@@ -73,7 +72,6 @@
 |--------------------------|-------------------|--------------------------|-------------------|------------------------|
 | حَفَظَ              | to save/protect   | مَحْفُوظَةٌ          | saved/protected (feminine) | المعلوماتُ مَحْفُوظَةٌ - The information is saved/protected. |
 | رَفَضَ              | to reject         | مَرْفُوضٌ            | rejected           | الطَّلَبُ مَرْفُوضٌ - The request is rejected. |
-| صَوَّرَ             | to depict/film    | تَصْوِيرٌ            | photography/filming| تَصْوِيرُ الفِيلْمِ - The filming of the movie. |
 | نَظَرَ              | to look/watch     | بِإِنْتِظَارِ         | awaiting           | بِإِنْتِظَارِ الرَّدِّ - Awaiting the response. |
 | ضَافَ               | to add            | إِضَافَةٌ            | addition           | إِضَافَةُ اِسْمٍ - Addition of a name. |
 | ضَافَ               | to add            | أَضِفْ               | add (imperative)   | أَضِفِ السُّكَّرَ إِلَى الشَّايِ - Add sugar to the tea. |
@@ -89,34 +87,29 @@ Here's the table:
 |---------------|-----------------------|---------------|-----------------------|-------------|
 | مَثَالٌ      | example               | مَثَالٌ       | example               | أَعْطِنِي مَثَالًا. (Give me an example.) |
 | رِيَالٌ      | real, riyal           | رِيَالٌ       | riyal (currency)      | سِعْرُ السَّلَعَةِ عَشْرَةُ رِيَالَاتٍ. (The price of the item is ten riyals.) |
-| مُسْتَعْمَلَةٌ| used                  | مُسْتَعْمَلَةٌ| used                  | اِشْتَرَيْتُ سَيَّارَةً مُسْتَعْمَلَةً. (I bought a used car.) |
+| اِسْتَعْمَلَ| to use                  | مُسْتَعْمَلَةٌ| used                  | اِشْتَرَيْتُ سَيَّارَةً مُسْتَعْمَلَةً. (I bought a used car.) |
 | عَلَى         | on                    | عَلَى        | on                    | قَمْ بَوَضْعِ الْكُتُبِ عَلَى الرَّفِّ. (Put the books on the shelf.) |
 | سُومٌ         | bid, offer            | سُومٌ        | bid, offer            | أَرَفْتُ سُومًا لِلْعُرُوضِ الْمُعَلَنَةِ. (I placed a bid for the advertised offers.) |
 | سِعْرٌ        | price                 | سِعْرٌ       | price                 | أَعْطِنِي السِّعْرَ. (Give me the price.) |
-| مُسْتَعْمَلَةٌ| used                  | مُسْتَعْمَلَةٌ| used                  | اِشْتَرَيْتُ سَيَّارَةً مُسْتَعْمَلَةً. (I bought a used car.) |
 | حَقًّا       | truly, really         | حَقًّا       | truly, really         | أَنْتَ حَقًّا مُحْتَرِمٌ. (You are truly respectful.) |
 | تَرِيدُ      | want                  | تُرِيدُ      | want                  | مَا الَّذِي تُرِيدُهُ؟ (What do you want?) |
-| رُجُوعٌ      | return                | رُجُوعٌ      | return                | أَرِيدُ الرُّجُوعَ لِلْمَنْزِلِ. (I want to return home.) |
 | دُونَ        | without               | دُونَ        | without               | هُمْ يَعْيِشُونَ دُونَ هُمْ. (They live without them.) |
-| اِكْمَالٌ   | completion            | اِكْمَالٌ   | completion            | نَحْنُ بِحَاجَةٍ إِلَى اِكْمَالِ الْمُهَمَّةِ. (We need to complete the task.) |
-| عَمَلِيَّةٌ  | process, operation    | عَمَلِيَّةٌ  | process, operation    | قَدْ تَتَطَلَّبُ الْعَمَلِيَّةُ بَعْضَ الْوَقْتِ. (The process may require some time.) |
+| اَكْمَلَ   | to complete            | اِكْمَالٌ   | completion            | نَحْنُ بِحَاجَةٍ إِلَى اِكْمَالِ الْمُهَمَّةِ. (We need to complete the task.) |
+| عَمَلَ  | to work    | عَمَلِيَّةٌ  | process, operation    | قَدْ تَتَطَلَّبُ الْعَمَلِيَّةُ بَعْضَ الْوَقْتِ. (The process may require some time.) |
 | إِلْغَاءٌ   | cancellation          | إِلْغَاءٌ   | cancellation          | قَمْ بِإِلْغَاءِ الطَّلَبِ. (Cancel the order.) |
 | أَخْفَاءٌ    | hiding, concealment   | أَخْفَاءٌ    | hiding, concealment   | اُخْتُبِرَتْ خَاصِيَّةُ الْأَخْفَاءِ فِي الْتَّطْبِيقِ. (The hiding feature was tested in the application.) |
 | الْمَزِيدُ   | more, additional      | الْمَزِيدُ   | more, additional      | اِقْرَأْ الْمَزِيدَ عَنْ هَذَا الْمُوْضُوعِ. (Read more about this topic.) |
 | اِظْهَارٌ    | display, show         | اِظْهَارٌ    | display, show         | اُضْغَطْ لِلْإِظْهَارِ. (Press to display.) |
 | تَأْكِيدٌ    | confirmation          | تَأْكِيدٌ    | confirmation          | اِضْغَطْ لِلتَّأْكِي |
 | فَحَصَ        | to examine, to inspect| فَحْصٌ        | examination, inspection| اُنْتَهَى الْفَحْصُ الْمَيْكَانِيْكِيّ. (The mechanical inspection is completed.) |
-| بِانْتِظَارٍ   | awaiting, pending     | بِانْتِظَارٍ   | awaiting, pending     | اَلْتَقَطْ الصُّوَرَةَ وَاتْرُكْهَا بِانْتِظَارٍ. (Take the picture and leave it pending.) |
-| مَوَاعِيدُ    | appointments, dates   | مَوَاعِيدُ    | appointments, dates   | يَجِبُ عَلَيْنَا تَأْكِيدُ الْمَوَاعِيدِ. (We need to confirm the appointments.) |
+| فَحَصَ    | to inspect            | فَاحِصُونَ    | inspectors            | الْمُهَمَّةُ لَدَيْهِمْ هِيَ تَدْرِيبُ الْفَاحِصِينَ. (Their task is to train the inspectors.) |
 | شَهْرٌ        | month                 | شَهْرٌ        | month                 | نَدْخُلُ فِي الشَّهْرِ الْقَادِمِ. (We enter the next month.) |
 | فُحْصَةٌ      | inspected             | فُحْصَةٌ      | inspected             | السَّيَّارَةُ مَفْحُوصَةٌ. (The car is inspected.) |
 | رَفْضَةٌ      | rejected              | رَفْضَةٌ      | rejected              | الطَّلَبُ مَرْفُوضٌ. (The request is rejected.) |
-| فَاحِصُونَ    | inspectors            | فَاحِصُونَ    | inspectors            | الْمُهَمَّةُ لَدَيْهِمْ هِيَ تَدْرِيبُ الْفَاحِصِينَ. (Their task is to train the inspectors.) |
 | بَيَانَاتٌ    | data                  | بَيَانَاتٌ    | data                  | يُمْكِنُنَا مُشَاهَدَةُ الْبَيَانَاتِ عَلَى الشَّاشَةِ. (We can see the data on the screen.) |
 | هَيْكَلٌ      | structure, framework  | هَيْكَلٌ      | structure, framework  | الْهَيْكَلُ الْمَعْمَارِيُّ مُهِمٌّ. (The architectural structure is important.) |
-| مُسْتَخْدَمٌ  | user                  | مُسْتَخْدَمٌ  | user                  | يُمْكِنُكَ التَّسْجِيْلَ كَمُسْتَخْدَمٍ جَدِيْدٍ. (You can register as a new user.) |
 | مَضْرُوبٌ     | multiplied, affected  | مَضْرُوبٌ     | multiplied, affected  | الْمَنْتَجُ مَضْرُوبٌ بِعَوَامِلِ عَدَّةٍ. (The product is affected by several factors.) |
-| مُلَاحَظَةٌ   | note, observation     | مُلَاحَظَةٌ   | note, observation     | لَدَيْكَ مُلَاحَظَةٌ؟ (Do you have a note?) |
+| لَحَظَ   | observation     | مُلَاحَظَةٌ   | note, observation     | لَدَيْكَ مُلَاحَظَةٌ؟ (Do you have a note?) |
 | اِتِّصَالٌ    | connection, contact   | اِتِّصَالٌ    | connection, contact   | اُفْتَحْ اِتِّصَالَكَ. (Open your contact.) |
 | إِرْسَالٌ    | sending, transmission | إِرْسَالٌ    | sending, transmission | أُرْسِلَتْ الرِّسَالَةُ. (The message was sent.) |
 | مُلَاحَظَاتٌ  | notes, observations   | مُلَاحَظَاتٌ  | notes, observations   | قُمْ بِتَسْجِيْلِ الْمُلَاحَظَاتِ. (Record the observations.) |
@@ -160,18 +153,13 @@ Here's the table:
 | صَلَحَ        | to be valid, to be suitable | صَلَاحِيَّةٌ | validity, authorization | تَأَكَّدْ مِنْ صَلَاحِيَّةِ الْبَطَاقَةِ. (Check the validity of the card.) |
 | أَدَّى        | to perform, to execute| أَدَاءٌ       | performance           | أَدَاءُ الْفَرِيقِ كَانَ جَيِّدًا. (The team's performance was good.) |
 | أَجْرَى       | to conduct, to perform | إِجْرَاءٌ    | procedure, action     | قُمْ بِاتِّبَاعِ الإِجْرَاءَاتِ. (Follow the procedures.) |
-| حَقَّ          | to be true, to be right | حَقًّا       | truly, really         | أَنْتَ حَقًّا مُحْتَرِمٌ. (You are truly respectful.) |
 | وَدَّ           | to want               | تُرِيدُ       | want                  | مَا الَّذِي تُرِيدُهُ؟ (What do you want?) |
 | رَجَعَ         | to return             | رُجُوعٌ      | return                | أَرِيدُ الرُّجُوعَ لِلْمَنْزِلِ. (I want to return home.) |
 | كَمُلَ         | to complete           | اِكْمَالٌ     | completion            | نَحْنُ بِحَاجَةٍ إِلَى اِكْمَالِ الْمُهَمَّةِ. (We need to complete the task.) |
 | عَمِلَ         | to work               | عَمَلِيَّةٌ   | process, operation    | قَدْ تَتَطَلَّبُ الْعَمَلِيَّةُ بَعْضَ الْوَقْتِ. (The process may require some time.) |
 | فَضَلَ         | to prefer, to favor   | فَضْلٌ       | favor, grace          | لَوْ سَمَحْتَ، أَنَا بِحَاجَةٍ إِلَى فَضْلِكَ. (Please, I need your favor.) |
 | خَيَّرَ        | to choose             | اِخْتِيَارٌ  | choice, selection     | قُمْ بِاِخْتِيَارِ أَحَدِ الْخِيَارَاتِ. (Choose one of the options.) |
-| عَرَضَ         | to exhibit, to display | مَعْرِضٌ    | exhibition            | زُرْ مَعْرِضَ الْفَنِّ. (Visit the art exhibition.) |
-| مَرَكَ          | to brand, to mark     | مَارْكَةٌ    | brand                 | مَا مَارْكَةُ سَيَّارَتِكَ؟ (What is your car's brand?) |
 | دَلَّ           | to indicate           | مُودِيلٌ     | model                 | هَذَا مُودِيلُ السَّيَّارَةِ. (This is the car's model.) |
-| سَنَّ           | to age                | سَنَةٌ       | year                  | فِي أَيِّ سَنَةٍ وُلِدْتَ؟ (In which year were you born?) |
-| صَوَّرَ        | to photograph         | صُورَةٌ      | picture               | أَرِنِي الصُورَةَ. (Show me the picture.) |
 | نَجَحَ         | to succeed            | نَجَاحٌ      | success               | نَجَاحُكَ يُفْرِحُنِي. (Your success makes me happy.) |
 | عَدَّلَ        | to adjust, to modify  | تَعْدِيلٌ    | modification          | قُمْ بِتَعْدِيلِ الْبَرْنَامَجِ. (Make modifications to the program.) |
 | دَقَّ          | to be precise         | دَقِيقَةٌ    | minute                | سَأَكُونُ هُنَاكَ فِي دَقِيقَةٍ. (I will be there in a minute.) |
@@ -184,10 +172,10 @@ Here's the table:
 | غَيَّرَ        | to change             | غَيْرٌ       | other, different      | غَيْرَ صَالِحَةٍ. (Not valid.) |
 | صَلَحَ         | to be valid, to be suitable | صَالِحَةٌ | valid                 | هَذِهِ البِطَاقَةُ صَالِحَةٌ. (This card is valid.) |
 | خَطَّ           | to draw               | خَطٌّ        | line                  | ارْسُمُ خَطًّا مُسْتَقِيمًا. (Draw a straight line.) |
-| عَرَضَ         | to display            | عَرْضٌ       | display               | قُمْ بِعَرْضِ الصُّورَةِ. (Display the picture.) |
 | طَالَ          | to lengthen           | طُولٌ        | length                | قِسْ طُولَ الْمَسَافَةِ. (Measure the length of the distance.) |
 | حَدَّدَ        | to specify            | تَحْدِيدٌ    | specification         | قُمْ بِتَحْدِيدِ النِّقَاطِ. (Specify the points.) |
 | حَقَّ          | to be true, to be real | حَقِيقِيٌّ   | real, true            | هَذَا شَيْءٌ حَقِيقِيٌّ. (This is something real.) |
+| حَقَّ          | to be true, to be right | حَقًّا       | truly, really         | أَنْتَ حَقًّا مُحْتَرِمٌ. (You are truly respectful.) |
 | حَاوَلَ       | to try, to attempt    | مُحَاوَلَةٌ  | attempt               | قُمْ بِمُحَاوَلَةٍ أُخْرَى. (Make another attempt.) |
 | شَكَرَ         | to thank              | شُكْرًا       | Thank you             | شُكْرًا لِمُسَاعَدَتِك. (Thank you for your help.) |
 | قَبَلَ         | to accept             | قَبُولٌ       | Acceptance            | حَصَلَ عَلَى قَبُولِ الْجَامِعَةِ. (He received university acceptance.) |
@@ -225,7 +213,6 @@ Here's the table:
 | تَعَاوَنَ      | to cooperate          | تَعَاوُنٌ    | Cooperation           | نَشْكُرُكُمْ عَلَى تَعَاوُنِكُمْ. (We thank you for your cooperation.) |
 | رَبَطَ         | to link               | رَبْطٌ       | Linking               | قُمْ بِرَبْطِ الْحِسَابِ. (Link the account.) |
 | عَلَنَ          | to announce           | الإِعْلَانُ   | Advertisement         | شَاهِدْ الإِعْلَانَ. (Watch the advertisement.) |
-| وَعَدَ         | to appoint            | مَوْعِدٌ      | Appointment           | مَوْعِدُكَ مَعَ الطَّبِيبِ غَدًا. (Your appointment with the doctor is tomorrow.) |
 | هَلْ            | is it (question particle) | هَلْ        | Is it                | هَلْ تُرِيدُ أَنْ تَذْهَبَ؟ (Do you want to go?) |
 | أَرَادَ        | to want               | تُرِيدُ       | Do you want           | هَلْ تُرِيدُ شَرَاءَ شَيْءٍ؟ (Do you want to buy something?) |
 | رَبَطَ         | to link               | رَبْطٌ        | Link                  | قُمْ بِرَبْطِ الحِسَابِ. (Link the account.) |
@@ -234,15 +221,15 @@ Here's the table:
 | رَقَمَ         | to number             | رَقَمٌ        | Number                | أَدْخِلْ رَقَمَ الْهَاتِفِ. (Enter the phone number.) |
 | عَرَّفَ        | to identify           | مُعَرِّفٌ     | Identifier            | مُعَرِّفُ المَسْتَخْدِمِ. (User identifier.) |
 | وَعَدَ         | to appoint            | مَوْعِدٌ      | Appointment           | مَوْعِدُ الطَّبِيبِ غَدًا. (The doctor's appointment is tomorrow.) |
+| وَعَدَ    | to promise  | مَوَاعِيدُ    | appointments, dates   | يَجِبُ عَلَيْنَا تَأْكِيدُ الْمَوَاعِيدِ. (We need to confirm the appointments.) |
 | مَكَّنَ        | to enable             | تَمْكِينٌ    | Enable                | تَمْكِينُ الْخِدْمَاتِ. (Enable the services.) |
 | أَذِنَ         | to permit             | إِذْنٌ        | Permission            | قُمْ بِمَنْحِ الإِذْنِ. (Grant the permission.) |
-| خَدَمَ         | to serve              | خِدْمَةٌ     | Service               | هَذِهِ خِدْمَةٌ مُفِيدَةٌ. (This is a useful service.) |
+| خَدَمَ         | to serve/use              | خِدْمَةٌ     | Service               | هَذِهِ خِدْمَةٌ مُفِيدَةٌ. (This is a useful service.) |
+| خَدَمَ  | to use                  | مُسْتَخْدَمٌ  | user                  | يُمْكِنُكَ التَّسْجِيْلَ كَمُسْتَخْدَمٍ جَدِيْدٍ. (You can register as a new user.) |
 | وَقَعَ         | to locate             | الْمَوْقِعُ   | Location              | تَحْدِيدُ الْمَوْقِعِ. (Determining the location.) |
 | تَبَعَ         | to follow             | لِلْمُتَابَعَةِ | To proceed          | اضْغَطْ لِلْمُتَابَعَةِ. (Click to proceed.) |
 | فَعَّلَ        | to activate           | تَفْعِيلٌ    | Activation            | قُمْ بِتَفْعِيلِ خَدَمَاتِ الـ GPS. (Activate GPS services.) |
 | خَطَأَ         | to err                | خَطَأٌ        | Error                 | وَقَعَ خَطَأٌ أَثْنَاءَ التَّحْدِيثِ. (An error occurred during the update.) |
-| حَدَثَ         | to happen             | حَدَثٌ        | Happened              | مَاذَا حَدَثَ؟ (What happened?) |
 | أَثْنَى         | to commend, to praise | أَثْنَاءَ     | During                | حَدَثَ خَطَأٌ أَثْنَاءَ التَّحْدِيثِ. (An error occurred during the update.) |
-| ضَافَ         | to add                | إِضَافَةٌ     | Adding                | إِضَافَةُ تَفَاصِيلٍ جَدِيدَةٍ. (Adding new details.) |
 | عَدَّلَ        | to adjust, to edit    | تَعْدِيلٌ    | Editing               | قُمْ بِتَعْدِيلِ الْمَعْلُومَاتِ. (Edit the information.) |
 | شَارَكَ        | to share              | مُشَارَكَةٌ  | Post                  | قُمْ بِمُشَارَكَةِ التَّطْبِيقِ. (Share the app.) |
